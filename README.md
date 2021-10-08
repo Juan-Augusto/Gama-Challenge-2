@@ -3,6 +3,12 @@
 
 
 <h2>Observação: <strong>Este projeto foi realizado para ser executado no terminal.</strong></h2>
+<h2>Equipe:</h2>
+<ul>
+<li>Juan Augusto</li>
+<li>Caio Teixeira</li>
+<li>Rodrigo Silva</li>
+</ul>
 	<h4>Ao ser iniciado, todas as respostas serão apresentadas de maneira sequencial. É importante que a pasta de arquivos seja realizada no mesmo disco local onde está armazenado o seu Node, para que seja possível rodar a solução.</h4>
 	<ul><h3>Comando para pacotes a serem baixados (Aplicados no terminal):</h3> 
           <li>npm init -y</li>
