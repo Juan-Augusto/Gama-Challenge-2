@@ -276,7 +276,7 @@
       let produto = listaProdutos[i]
       for(j=0; j<listaDeptos12.length; j++){
         if(produto.departamento.idDepto == listaDeptos13[j].idDepto){
-          listaDeptos13[j].somatoriaItens+=(produto.qtdEstoque*produto.preco)
+          listaDeptos13[j].ticketmedio+=(produto.qtdEstoque/listaDeptos13.length)
           break
         }
       }
