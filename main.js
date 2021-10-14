@@ -264,7 +264,7 @@
         let itemLista13 = {
           nomeDepto: produto.departamento.nomeDepto,
           idDepto: produto.departamento.idDepto,
-          somatoriaItens: 0
+          ticketmedio: 0
         }
         listaDeptos13.push(itemLista13)
         codDepto13 = produto.departamento.idDepto
